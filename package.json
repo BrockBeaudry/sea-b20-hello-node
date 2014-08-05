@@ -1,0 +1,22 @@
+{
+  "name": "sea-b20-hello-node",
+  "version": "0.0.0",
+  "description": "Hello World with Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrockBeaudry/sea-b20-hello-node"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Brock Beaudry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrockBeaudry/sea-b20-hello-node/issues"
+  },
+  "homepage": "https://github.com/BrockBeaudry/sea-b20-hello-node"
+}
